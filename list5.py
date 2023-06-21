@@ -4,4 +4,4 @@ y=a[-1]
 print(x+y)
 print("hello world")
 
-print("program completed")
+
