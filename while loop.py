@@ -1,24 +1,5 @@
-num=int(input("enter the number:"))
-while (num>0):
-    last=num%10
-    num=num//10
-    print(last)  
-
-
-
-
- 
-
-num=int(input("enter the number:"))
-while (num>0):
-    last=num%10
-    num=num//10
-    print(last)  
-
-
-
-
- 
-
-
-
+i=0
+n=int(input("enter the number:"))
+while (i<10):
+    i+=1
+    print(i,"*",n,"=",i*n)

@@ -1,0 +1,11 @@
+x=input("enter the number")
+y=input("enter the number")
+x=int(x)
+y=int(y)
+print(y,"==",x,y==x)
+print(y,"!=",x,y!=x)
+print(y,">",x,y>x)
+print(y,"<",x,y<x)
+print(y,">=",x,y>=x)
+print(y,"<=",x,y<=x)
+
