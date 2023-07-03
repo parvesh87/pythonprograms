@@ -1,7 +1,7 @@
 def search(a,b):
     if b in a:
         return a.index(b)
-    
+       
     else:
         return (-1)
 
