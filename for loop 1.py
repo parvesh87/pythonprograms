@@ -1,3 +1,2 @@
-n=int(input("enter the number"))
-for i in range (1,11):
-    print(i, "*" ,n ,"=",i*n)
+for i in range(2,21,2):
+    print(i)

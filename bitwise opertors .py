@@ -1,0 +1,10 @@
+a=75&32
+print(a)
+b=75|32
+print(b)
+c=75^32
+print(c)
+d=75>>3
+print(d)
+e=75<<4
+print(e)
