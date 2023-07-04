@@ -4,6 +4,5 @@ b=input("enter the value:")
 c=0
 for i in a.keys():
     if(i in b):
-        if(a in x):
-            c+=a[i]
+        c+=a[i]
 print(c)
