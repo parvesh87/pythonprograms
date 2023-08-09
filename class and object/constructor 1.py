@@ -23,4 +23,12 @@ class Mobilephone:
         print("name",self.name)
         print("brand",self.brand)
         print("color",self.color)
-        print("weight",self    
+        print("weight",self.weight)
+        print("processor",self.processor)
+        print("andriodversion",self.andriodversion)
+        print("ram",self,ram)
+        print("storage",self.storage)
+
+b=Mobilephone("vivo","t1","black",18.5,662,13,128)
+b.display()
+
