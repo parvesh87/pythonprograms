@@ -14,6 +14,7 @@ class Student(Person):
         self._mark=mark
     def displayProperty(self):
         print(f"Student name:{self._name}\nage={self.age}\nmark={self.__mark}")
+
 a=Student("dhev",25,450)
 a.displayProperty
 print(a.getMark())
